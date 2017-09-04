@@ -1,0 +1,28 @@
+[{
+	"airline": "Aer Lingus",
+	"avail_seat_km_per_week": 320906734,
+	"incidents_85_99": 2,
+	"fatal_accidents_85_99": 0,
+	"fatalities_85_99": 0,
+	"incidents_00_14": 0,
+	"fatal_accidents_00_14": 0,
+	"fatalities_00_14": 0
+}, {
+	"airline": "Aeroflot",
+	"avail_seat_km_per_week": 1197672318,
+	"incidents_85_99": 76,
+	"fatal_accidents_85_99": 14,
+	"fatalities_85_99": 128,
+	"incidents_00_14": 6,
+	"fatal_accidents_00_14": 1,
+	"fatalities_00_14": 88
+}, {
+	"airline": "Aerolineas Argentinas",
+	"avail_seat_km_per_week": 385803648,
+	"incidents_85_99": 6,
+	"fatal_accidents_85_99": 0,
+	"fatalities_85_99": 0,
+	"incidents_00_14": 1,
+	"fatal_accidents_00_14": 0,
+	"fatalities_00_14": 0
+}]
